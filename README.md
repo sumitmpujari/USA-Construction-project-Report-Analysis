@@ -38,13 +38,17 @@ This project tracks multiple construction projects across locations in the U.S. 
 
 The Power BI dashboard includes:
 
-KPIs (Cards): Total Sales, Estimated Cost, Actual Cost, Profit, Avg Progress, Cost Overrun %
-Timeline Tracking (Gantt Chart): Start & End dates with Progress %
-Financial Comparison (Column Chart): Sales vs Estimated vs Actual Costs
-Geographical View (Map): Projects by Location with Progress coloring
-Project Overview (Matrix): Project → Manager → Team with Costs & Progress
+KPIs (Cards): Total Sales, Estimated Cost, Actual Cost, Profit, Avg Progress, Cost Overrun %.
+Timeline Tracking (Gantt Chart): Start & End dates with Progress %.
+Financial Comparison (Column Chart): Sales vs Estimated vs Actual Costs.
+Geographical View (Map): Projects by Location with Progress coloring.
+Project Overview (Matrix): Project → Manager → Team with Costs & Progress.
 Phase Distribution (Donut Chart): Foundation, Structural, Electrical, etc.
-Filters (Slicers): Project Type, Status, Manager, Location, Phase
+Filters (Slicers): Project Type, Status, Manager, Location, Phase.
+
+##Dashboard
+<img width="1162" height="612" alt="image" src="https://github.com/user-attachments/assets/a6bb4a81-d703-4b9a-be01-792be3975661" />
+
 
 ##Tools & Technologies:
 
