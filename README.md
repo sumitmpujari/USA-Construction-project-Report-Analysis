@@ -34,9 +34,10 @@ This project tracks multiple construction projects across locations in the U.S. 
 | T013      | Olivia White | Hospitality Expert  | Lakeside Resort   | P007       | M007       |
 | T014      | Sanjay Rao   | Structural Engineer | Lakeside Resort   | P007       | M007       |
 
-#Dashboard Features
+##Dashboard Features
 
 The Power BI dashboard includes:
+
 KPIs (Cards): Total Sales, Estimated Cost, Actual Cost, Profit, Avg Progress, Cost Overrun %
 Timeline Tracking (Gantt Chart): Start & End dates with Progress %
 Financial Comparison (Column Chart): Sales vs Estimated vs Actual Costs
@@ -45,12 +46,14 @@ Project Overview (Matrix): Project → Manager → Team with Costs & Progress
 Phase Distribution (Donut Chart): Foundation, Structural, Electrical, etc.
 Filters (Slicers): Project Type, Status, Manager, Location, Phase
 
-#Tools & Technologies
+##Tools & Technologies:
+
 Power BI (Dashboard, DAX, Visuals)
 Excel / CSV (Data Preparation)
 GitHub (Project Documentation & Sharing)
 
-#Insights from Dashboard
+##Insights from Dashboard:
+
 Riverside Hospital is the largest project ($250M).
 Skyline Towers has the highest sales ($120M) but a cost overrun risk.
 TechPark Hub is the most expensive commercial project.
